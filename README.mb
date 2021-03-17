@@ -1,0 +1,8 @@
+A google homepage clone
+
+has 3 main divs, the top navbar, the main div which holds the search bar, and the footer. the navbar and the footer hold item divs.
+
+
+need to figure out what i want the logo to be. i think i would rather hardcode a design into the text. tie into a js? naw
+
+need magnifier logo for search bar.
